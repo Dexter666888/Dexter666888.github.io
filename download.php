@@ -13,7 +13,8 @@
         </br>
         </br>
         </br>
-        <a href="MCBRK/minecraft-1-17-10.apk"></a>
+        <a href="http://mcpe-monster.com/download/3300">下载</a>
+        <h2>用4G流量下载，速度更快</h2>
         <?php
             $x=$_FILES;
             echo $x;
